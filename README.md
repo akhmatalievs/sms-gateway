@@ -7,6 +7,7 @@ For more information visit https://etherarp.net/building-a-sms-gateway-from-a-hu
 
 https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html
 https://www.reddit.com/r/homelab/comments/r9fpeq/i_built_an_sms_gateway_api_using_a_pi_now_i_can/
+https://blog.siqma.com/raspberry-pi-lock/
 
 ## Scripts
 - Connect/Disconnect modem `hilink_connect, hilink_disconnect`
